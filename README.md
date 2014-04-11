@@ -1,5 +1,7 @@
 # CAST
 
+_NOTE: this documentation also available in the follow languages: [русский](docs/ru/README.md)
+
 CAST is a Content Addressable Storage and Transfer library for MODX Revolution built around Git.
 
 CAST requires PHP >= 5.3.3, MODX Revolution >= 2.1 and the Git binaries >= TBD to be installed and accessible where used.
